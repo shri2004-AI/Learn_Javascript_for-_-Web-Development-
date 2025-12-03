@@ -19,7 +19,6 @@ let secound=10;
 
 let operator=prompt("enter the operator ");
 
-let result
 if(random>0.1){
      if(operator==="+"){
           result=first+secound
