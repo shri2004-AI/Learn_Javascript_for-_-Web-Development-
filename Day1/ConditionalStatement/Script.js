@@ -24,6 +24,7 @@
 
 
 // else-if statement
+
 console.log("before my else if Statement");
 let age=23;
 if(age>=18){
