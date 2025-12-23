@@ -1,10 +1,15 @@
-let color=prompt("enter your color name = ");
-if(color=='red'){
-    console.log("Stop!");
+let str="apple";
+if((str[0]=='a') && (str.length>3)){
+    console.log("Good");
+}else{
+    console.log("Bad");
 }
-if(color=='yellow'){
-    console.log("slow down");
+
+
+let num=12;
+if((num%3===0) &&((num+1===15)||(num-1===11))){
+    console.log("safe");
 }
-if(color=='green'){
-    console.log("Go");
+else{
+    console.log("unsafe");
 }
