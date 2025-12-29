@@ -18,11 +18,10 @@
 function sum1(...args){
     return args.reduce((sum,el) => sum + el);
 }
-console.log(sum1(45,64,3456,234));
+console.log(sum1(4,6,3,2,5));
 
 function Min(msg,...args){
-   console.log("hello");
-   
+   console.log(msg);
     return args.reduce((min,el) =>{
         if(min>el){
             return el;
@@ -31,4 +30,4 @@ function Min(msg,...args){
         }
     }
 )};
-console.log(Min(45,64,34,234));
+console.log(Min("Hello",45,64,34,24));

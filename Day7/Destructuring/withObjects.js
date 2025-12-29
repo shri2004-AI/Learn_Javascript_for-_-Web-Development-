@@ -1,5 +1,5 @@
 const student={
-    name:"harsh",
+    name:"Harsh",
     age:22,
     subjects:["math","hindi","computer"],
     username:"karan@123",

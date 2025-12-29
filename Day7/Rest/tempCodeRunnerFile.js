@@ -1,17 +1,5 @@
-// function sum1(...args){
-//     return args.reduce((sum,el) => sum + el);
+function min(a,b,c,d){
+//     console.log(arguments);
+//     console.log(arguments.length);
 // }
-// console.log(sum1(45,64,3456,234));
-// 
-// function Min(msg,...args){
-//    console.log("hello");
-   
-//     return args.reduce((min,el) =>{
-//         if(min>el){
-//             return el;
-//         }else{
-//             return min;
-//         }
-//     }
-// )};
-// console.log(Min(45,64,34,234));
+// min(7,2,9,3);
