@@ -5,6 +5,8 @@
 //     }
 // }
 
+// sum(7,54,51,63,10,57,85);
+
 
 // function min(a,b,c,d){
 //     console.log(arguments);
