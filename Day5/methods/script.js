@@ -28,7 +28,7 @@ const calculator1={
         return a/b;
     }
 };
-console.log(calculator.add(65,65));
-console.log(calculator.sub(65,65));
-console.log(calculator.multi(65,65));
-console.log(calculator.div(65,65));
+console.log(calculator1.add(65,65));
+console.log(calculator1.sub(65,65));
+console.log(calculator1.multi(65,65));
+console.log(calculator1.div(65,65));

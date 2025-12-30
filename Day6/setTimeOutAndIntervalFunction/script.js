@@ -9,19 +9,19 @@
 
 
 // setInterval function
-console.log("hii there");
+// console.log("hii there");
 
-let id1=setInterval(() => {
-    console.log("apna college");
-}, 2000);
+// let id1=setInterval(() => {
+//     console.log("apna college");
+// }, 2000);
 
-console.log("welcome to..");
-console.log(id1);
+// console.log("welcome to..");
+// console.log(id1);
 
 
-let id2=setInterval(() => {
-    console.log("apni duniya");
-}, 2000);
+// let id2=setInterval(() => {
+//     console.log("apni duniya");
+// }, 2000);
 
-console.log("welcome to..");
-console.log(id2);
+// console.log("welcome to..");
+// console.log(id2);
