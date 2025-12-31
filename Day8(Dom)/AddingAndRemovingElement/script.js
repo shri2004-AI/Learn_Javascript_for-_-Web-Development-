@@ -23,7 +23,6 @@ let main=document.querySelector("main");
 main.insertAdjacentElement("beforeend",btn)
 
 
-
 //removing
 // main.removeChild(btn);
 btn.remove();
