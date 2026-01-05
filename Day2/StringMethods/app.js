@@ -44,3 +44,4 @@ let str2="ILoveCoding";
 console.log(str2.repeat(3));
 
 
+console.log(str2.slice(-str2.length));

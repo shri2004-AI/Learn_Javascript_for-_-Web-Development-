@@ -7,7 +7,7 @@ const student={
         return this.name;
     },
     getMarks:()=> {
-        console.log(this);//parent object -> window
+        console.log(this);  //parent object -> window
         return this.marks;
     },
     getInfo1:function (){

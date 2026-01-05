@@ -20,7 +20,7 @@
 
 
 //conversion in get values
-// const obj={
+// const obj1={
 //     1:"a",
 //     2:"b",
 //     true:"c",
@@ -28,8 +28,9 @@
 //     undefined:"e"
 // };
 
-// console.log(obj["1"]);
-// console.log(obj[2]);
+// console.log(obj1["1"]);
+// console.log(obj1[2]);
+// console.log(obj1.null);
 
 
 //add/update value
@@ -43,6 +44,7 @@
 // console.log(student.city);
 // student.city="chirgaon";
 // console.log(student.city);
+// console.log(student);
 
 // student.gender="male";
 // console.log(student);

@@ -5,13 +5,14 @@ form.addEventListener("submit",function(event){
 });
 
 let user=document.querySelector("#user");
+let pass=document.querySelector("#pass");
 
 user.addEventListener("change",function(){
     console.log("change event");
     console.log("final value = ",this.value);
 })
 
-user.addEventListener("input",function(){
+pass.addEventListener("input",function(){
     console.log("input event");
     console.log("final value = ",this.value);
 })

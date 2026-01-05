@@ -12,3 +12,5 @@ async function getFacts() {
     console.log("bye");
     
 }
+
+getFacts()

@@ -1,8 +1,8 @@
-let arr=[1,2,4,5,6,7,8];
+// let arr=[1,2,4,5,6,7,8];
 
-let print=function(el){
-    console.log(el);
-};
+// let print=function(el){
+//     console.log(el);
+// };
 
 // arr.forEach(print);
 
@@ -30,5 +30,8 @@ let arr1=[{
 }];
 
 arr1.forEach((student)=>{
+    console.log(student
+        
+    );
     console.log(student.marks);
 })

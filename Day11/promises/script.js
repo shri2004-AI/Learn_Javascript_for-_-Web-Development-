@@ -20,17 +20,17 @@
 //                 console.log("sucess3 : data3 saved");
 //             },
 //             () => {
-//         console.log("failure3 : data3 not saved");
+//         console.log("failure3 :weak connection, data3 not saved");
 //         }
 //         );
 //         }, 
 //         () => {
-//         console.log("failure2 : data2 not saved");
+//         console.log("failure2 :weak connection, data2 not saved");
 //         }
 //     );
 // },
 //     () => {
-//         console.log("failure : weak connection, data was not saved");
+//         console.log("failure1 : weak connection, data1 was not saved");
 //     }
 // );
 

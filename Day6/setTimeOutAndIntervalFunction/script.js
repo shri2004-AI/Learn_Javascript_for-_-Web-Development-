@@ -1,22 +1,26 @@
-// setTimeout function
+// // setTimeout function
 // console.log("hii there");
 
 // setTimeout( ()=>{
 //     console.log("apna college");
-// },10000);
+// },5000);
 
 // console.log("welcome to..");
 
 
 // setInterval function
-// console.log("hii there");
+console.log("hii there");
 
-// let id1=setInterval(() => {
-//     console.log("apna college");
-// }, 2000);
+let id1=setInterval(() => {
+    console.log("apna college");
+}, 2000);
 
-// console.log("welcome to..");
-// console.log(id1);
+setTimeout(()=>{
+    clearInterval(id1)
+},10000)
+
+console.log("welcome to..");
+console.log(id1);
 
 
 // let id2=setInterval(() => {

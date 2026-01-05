@@ -9,7 +9,7 @@ console.log(cars);
 console.log(cars.pop());
 console.log(cars);
 
-//unshit method
+//unshift method
 console.log(cars.unshift("nexon"));
 console.log(cars);
 
